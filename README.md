@@ -1,6 +1,6 @@
 # Fold Magento
 
-FOld Magento is a private, read-only discovery scanner for Magento Open Source and Adobe Commerce.
+Fold Magento is a private, read-only discovery scanner for Magento Open Source and Adobe Commerce.
 
 It runs locally, does not upload data, masks sensitive values in scan output, and generates a portable technical map of the store for discovery, scoping, audits, migrations, upgrades, debugging, and rebuild planning.
 
